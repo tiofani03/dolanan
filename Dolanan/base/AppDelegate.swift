@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Dolanan
 //
-//  Created by Moladin on 05/01/23.
+//  Created by Tio on 21/02/23.
 //
 
 import UIKit
